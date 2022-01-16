@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Edber
+- 👀 I’m interested in Web Developement
+- 🌱 I’m currently learning React.js
+- 📫 How to reach me edberv1@gmail.com
